@@ -1,22 +1,47 @@
 # Hi, I'm Mehmet! 🖖🏻
 
-With over a decade of experience as a software developer, I'm passionate about creating impactful tools and sharing knowledge with the tech community. 
-My current focus is on crypto market-making, RAGs, and, as always, fintech solutions.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/thisiscetin/)
+[![X](https://img.shields.io/badge/X-black?style=flat&logo=x&labelColor=black)](https://x.com/thisiscetin)
+[![Email](https://img.shields.io/badge/Email-cetin@kinematiks.com-blue)](mailto:cetin@kinematiks.com)
 
-## Past Projects
-- **[Kinematiks](https://kinematiks.com)** Founder & CTO, driving innovation in autonomous financial market-making.
-- **[Polira](https://polira.com)** Built and launched a fintech product in 42 days!
-- **[Gojek](https://www.gojek.com/en-id)** 5 years as an Engineering Manager in the finance department of Southeast Asian unicorn Gojek.
-- **[iOS Apps](https://sbp.sh/)** Developed several generative AI-powered and finance-related iOS applications that generate revenue.
+With over a decade of experience as a software developer, I'm passionate about creating impactful tools, sharing knowledge, learning while doing and coaching.
+
+## Me
+
+- Physicist turned Software Developer with 10+ years of experience.
+- Currently focused on crypto market-making, RAGs, and fintech.
+
+## Tools
+
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat&logo=elixir&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+
+## Notable Projects
+
+- **[Kinematiks](https://kinematiks.com)**: Developed autonomous crypto market-making bots, significantly increasing trading efficiency and liquidity.
+- **[Gojek](https://www.gojek.com/en-id)**: Served 5 years as an Engineering Manager in the finance department of Southeast Asian unicorn Gojek, overseeing critical financial products and teams.
+- **[Polira](https://polira.com)**: In just 42 days, we built and launched a fintech product: a loyalty point exchange.
+- **[Tology](https://app.tology.ai/)**: Created a RAG chatbot platform that allows users to share, embed, refine, and monitor custom chatbots.
+- **[iOS Apps](https://sbp.sh/)**: Bootstrapped several generative AI-powered and finance-related iOS applications.
 
 ## Contributions
-- **[ElixirBook](https://x.com/theelixirbook)** I am sharing the latest updates and resources about Elixir and Phoenix on X.
-- **[Talks & Seminars](https://www.youtube.com/watch?v=barLb2V7SBY&t=9s)** Gave talks at various places since 2017. 
+
+- **[Talks & Seminars](https://www.youtube.com/watch?v=barLb2V7SBY&t=9s)**: Presented talks at various conferences and meetups since 2017, focusing on software development, fintech, and AI.
+- **[ElixirBook](https://x.com/theelixirbook)**: Sharing the latest updates and resources about Elixir and Phoenix on X.
+- **[Medium](https://medium.com/hackernoon/communicating-go-applications-through-redis-pub-sub-messaging-paradigm-df7317897b13)**: Writing for HackerNoon, Venture.
 
 ## Fun
-- Built many RC planes, a quadruped robot, and 3D printed and assembled self-designed axial flux BLDC motor.
-- Some sailing, playing saxophone, and spending time with my kids.
 
-## Say hi 👋
-- cetin[at]kinematiks[dot]com | PGP: 494CFA4B46FDC24112F6E5F218203DD5E4FD43E5
-- [LinkedIn](https://www.linkedin.com/in/thisiscetin/) | [X](https://x.com/thisiscetin)
+- 🛩️ Built numerous RC planes.
+- 🤖 Designed and assembled a quadruped robot.
+- ⚙️ 3D printed and assembled a self-designed axial flux BLDC motor.
+- ⛵ Enjoy sailing, playing the saxophone 🎷, and spending quality time with my kids.
+
+##
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out!
+
+PGP: `494C FA4B 46FD C241 12F6 E5F2 1820 3DD5 E4FD 43E5`
