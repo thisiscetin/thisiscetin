@@ -7,7 +7,7 @@ My current focus is on crypto market-making, RAGs, reinforcement learning, and, 
 - **[Kinematiks](https://kinematiks.com)** Founder & CTO, driving innovation in autonomous financial market-making.
 - **[Polira](https://polira.com)** Built and launched a fintech product in 42 days!
 - **[Gojek](https://www.gojek.com/en-id)** 5 years as an Engineering Manager in the finance department of Southeast Asian unicorn Gojek.
-- **[iOS Apps](https://sbp.sh/)** Developed several generative AI-powered and budgeting iOS applications that generate revenue.
+- **[iOS Apps](https://sbp.sh/)** Developed several generative AI-powered and finance-related iOS applications that generate revenue.
 
 ## Community Contributions
 - **[ElixirBook](https://x.com/theelixirbook)** I am sharing the latest updates and resources about Elixir and Phoenix.
