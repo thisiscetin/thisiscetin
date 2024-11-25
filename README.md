@@ -6,12 +6,6 @@
 
 With over a decade of experience as a software developer and engineering manager, I'm passionate about building scalable solutions in fintech, AI, and trading. Currently, I’m focusing on crypto market-making, Reinforcement Learning, and AI-powered applications.
 
-## Professional Background
-
-- Physicist turned Software Engineer with extensive experience in fintech and AI-driven projects.
-- Currently leading Kinematiks, where I develop AI-driven trading bots and autonomous RAG systems.
-- Key player at Gojek, where I spent five years as an Engineering Manager in the finance department, helping scale the company’s fintech products.
-
 ## Tools
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
@@ -33,7 +27,7 @@ With over a decade of experience as a software developer and engineering manager
 
 - **[Talks & Seminars](https://www.youtube.com/watch?v=barLb2V7SBY&t=9s)**: Presented talks at various conferences and meetups since 2017, focusing on software development, fintech, and AI.
 - **[ElixirBook](https://x.com/theelixirbook)**: Sharing the latest updates and resources about Elixir and Phoenix on X.
-- **[Technical Writing](https://medium.com/hackernoon/communicating-go-applications-through-redis-pub-sub-messaging-paradigm-df7317897b13)**: Writing for HackerNoon, Venture.
+- **[Technical Writing](https://cetinscosmos.com)**: Writing for HackerNoon, Venture.
 
 ## Fun Facts
 
