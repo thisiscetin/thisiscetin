@@ -4,7 +4,7 @@
 [![X](https://img.shields.io/badge/X-black?style=flat&logo=x&labelColor=black)](https://x.com/thisiscetin)
 [![Email](https://img.shields.io/badge/Email-cetin@kinematiks.com-blue)](mailto:cetin@kinematiks.com)
 
-With over a decade of experience as a software developer and engineering manager, I'm passionate about building scalable solutions in fintech, AI, and trading. Currently, I’m focusing on crypto market-making, Reinforcement Learning, and AI-powered applications.
+Engineering leader with 10+ years of experience in fintech and AI, specializing in building scalable, distributed systems using Go, Ruby, TypeScript, and Elixir. I’ve led high-impact teams across Bangkok, Singapore, India, Dubai, and Istanbul, delivering real-time trading platforms, ultra-low-latency infrastructure, and ML-powered products used by millions. Proven ability to scale systems under pressure, navigate regulatory complexity, and drive cross-functional collaboration. A lifelong programmer, I thrive on delivering reliable, maintainable software under strict performance, compliance, and time constraints.
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
