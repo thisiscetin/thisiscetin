@@ -4,11 +4,11 @@
 [![X](https://img.shields.io/badge/X-black?style=flat&logo=x&labelColor=black)](https://x.com/thisiscetin)
 [![Email](https://img.shields.io/badge/Email-cetin@kinematiks.com-blue)](mailto:cetin@kinematiks.com)
 
-Engineering leader with 15 years of experience designing and scaling distributed trading and financial systems — and coding since age 12.
+Engineering leader with 15 years of experience designing and scaling fintech systems — spanning BNPL, online accounting, payments, and trading infrastructure.
 
-I’ve led engineering teams in Bangkok, Dubai, and Istanbul, building fintech and real-time data platforms used by millions. My work centers on low-latency system design, distributed architecture, and building engineering teams that deliver reliable, high-performance software under demanding conditions.
+I’ve led engineering teams across Bangkok, Dubai, and Istanbul, delivering products used by millions and building platforms that balance reliability, performance, and scalability.
 
-A lifelong programmer, I still code daily and pair program with engineers in rotation — not only to guide implementation, but to explore how to think like scientists when needed, stay pragmatic when required, and balance elegant engineering with business goals. I pair to teach and to learn — cultivating a culture where curiosity, precision, and shared ownership lead to resilient, scalable, and innovative systems.
+In my latest role, I built a new engineering function from the ground up — starting solo, designing the architecture, and growing it into a high-performance team that became a key part of the company’s growth. I stay deeply hands-on: coding daily, pairing with engineers, and fostering a culture where curiosity, precision, and shared ownership lead to resilient, innovative systems.
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
