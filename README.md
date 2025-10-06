@@ -4,7 +4,11 @@
 [![X](https://img.shields.io/badge/X-black?style=flat&logo=x&labelColor=black)](https://x.com/thisiscetin)
 [![Email](https://img.shields.io/badge/Email-cetin@kinematiks.com-blue)](mailto:cetin@kinematiks.com)
 
-Engineering leader with 10+ years of experience in fintech, specializing in building scalable, distributed systems using Go, Ruby, TypeScript, and Elixir. I’ve led high-impact teams across Bangkok, Singapore, India, Dubai, and Istanbul, delivering real-time trading platforms, ultra-low-latency infrastructure, and ML-powered products used by millions. Proven ability to scale systems under pressure, navigate regulatory complexity, and drive cross-functional collaboration. A lifelong programmer, I thrive on delivering reliable, maintainable software under strict performance, compliance, and time constraints.
+Engineering leader with 15 years of experience designing and scaling distributed trading and financial systems — and coding since age 12.
+
+I’ve led engineering teams in Bangkok, Dubai, and Istanbul, building fintech and real-time data platforms used by millions. My work centers on low-latency system design, distributed architecture, and building engineering teams that deliver reliable, high-performance software under demanding conditions.
+
+A lifelong programmer, I still code daily and pair program with engineers in rotation — not only to guide implementation, but to explore how to think like scientists when needed, stay pragmatic when required, and balance elegant engineering with business goals. I pair to teach and to learn — cultivating a culture where curiosity, precision, and shared ownership lead to resilient, scalable, and innovative systems.
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
