@@ -4,18 +4,15 @@
 [![X](https://img.shields.io/badge/X-black?style=flat&logo=x&labelColor=black)](https://x.com/thisiscetin)
 [![Email](https://img.shields.io/badge/Email-cetin@kinematiks.com-blue)](mailto:cetin@kinematiks.com)
 
-Engineering leader with 15 years of experience designing and scaling fintech systems — spanning BNPL, online accounting, payments, and trading infrastructure.
+Senior Engineering Lead with 15+ years of experience building scalable platforms across BNPL, payments, e-commerce, and SaaS accounting. Led distributed teams in Istanbul, Bangkok, and Dubai to deliver secure, high-availability systems serving millions of users— including Gojek PayLater (3M+ daily transactions, 99.99% uptime) and a full-stack financial platform built in 42 days.
 
-I’ve led engineering teams across Bangkok, Dubai, and Istanbul, delivering products used by millions and building platforms that balance reliability, performance, and scalability.
-
-In my latest role, I built a new engineering function from the ground up — starting solo, designing the architecture, and growing it into a high-performance team that became a key part of the company’s growth. I stay deeply hands-on: coding daily, pairing with engineers, and fostering a culture where curiosity, precision, and shared ownership lead to resilient, innovative systems.
+Hands-on technical leader proficient in Go, TypeScript, and event-driven microservices, with deep expertise in cloud-native infrastructure (Kubernetes, Kafka, PostgreSQL). Advocates for engineering excellence through TDD, pair programming, and end-to-end system ownership, ensuring speed, scalability, and compliance in regulated domains.
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat&logo=elixir&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 
 ### Notable Projects
 
