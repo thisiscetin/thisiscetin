@@ -22,5 +22,5 @@ In my latest role, I built a new engineering function from the ground up — sta
 - **[Kinematiks](https://kinematiks.com)**: Designed and deployed autonomous crypto market-making bots, enhancing trading efficiency across exchanges.
 - **[Gojek](https://www.gojek.com/en-id)**: Managed multiple engineering teams, focusing on products like buy-now-pay-later and cash loans, impacting millions.
 - **[Polira](https://polira.com)**: Co-developed a loyalty point exchange platform within 42 days.
-- **[Tology](https://app.tology.ai/)**: Built a RAG chatbot platform enabling users to create, share, and customize chatbots.
+- **[Tology](https://tology.ai/)**: Built a RAG chatbot platform enabling users to create, share, and customize chatbots.
 - **[iOS Apps](https://sbp.sh/)**: Created generative AI-powered and finance-centric apps from ideation to deployment.
